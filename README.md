@@ -5,4 +5,3 @@
 ### Tecnologias usadas no desafio:
 ### HTML
 ### CSS
-### JavaScript
